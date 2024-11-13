@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Minha amília?',
+    'Minha família?',
     '',
     'Eu moro com meu pai, minha mãe e meu irmãozinho. Meu outro irmão mora sozinho.'
 )
